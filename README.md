@@ -1,7 +1,5 @@
 # hello-world
 
-
-
 ## How Debug?
 
 Following,
@@ -32,11 +30,7 @@ Vue vscode snippets
 
 Vue js extension pack
 
-
-
 ![[](installed_plugins_for_vscode.png)
-
-
 
 ## Project setup
 
